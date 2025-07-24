@@ -14,7 +14,7 @@ Add type hint for build-in function of aegisub
   "runtime.version": "Lua 5.2",
   "workspace.library": [
     "C:/aegisub/automation/include",
-    "C:/Aegisub-Lua-Stubs/aegisub_stubs.lua"
+    "C:/Aegisub-Lua-Stubs"
   ],
   "diagnostics.disable": ["lowercase-global"]
 }
